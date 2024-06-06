@@ -1,6 +1,8 @@
 ## Hi there, I'm Ryan 👋
 
-I enjoy building software and hardware. Check out my website at [ziegler.lol](https://ziegler.lol).
+I enjoy building software and hardware, and am currently working on [a chip](https://github.com/dkw-fan-club/chip) which will be taped out by TSMC in December.
+
+Feel free to get in touch at `ryan AT ziegler DOT lol`.
 
 <!--
 **rzig/rzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
