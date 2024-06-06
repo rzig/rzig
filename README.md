@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Ryan 👋
+
+I enjoy building software and hardware. Check out my website at [ziegler.lol](https://ziegler.lol).
 
 <!--
 **rzig/rzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
