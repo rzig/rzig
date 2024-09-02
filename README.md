@@ -1,6 +1,6 @@
 ## Hi there, I'm Ryan 👋
 
-I enjoy building software and hardware, and am currently working on [a chip](https://github.com/dkw-fan-club/chip) which will be taped out by TSMC in December.
+I enjoy building software and hardware, and am currently working on [a chip](https://github.com/dkw-fan-club/chip).
 
 Feel free to get in touch at `ryan AT ziegler DOT lol`.
 
